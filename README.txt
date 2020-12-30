@@ -1,0 +1,1 @@
+My endeavours in AOC 2020 - using Python (started with 2.* which I found on my system, but now @3.9.1)
